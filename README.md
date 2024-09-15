@@ -1,6 +1,6 @@
 # Lung Cancer Prediction Model
 
-This repository contains a machine learning model for predicting lung cancer risk based on various patient features. The project includes data preprocessing, model training, evaluation, and saving the trained model for future use.
+This repository contains a machine-learning model for predicting lung cancer risk based on various patient features. The project includes data preprocessing, model training, evaluation, and saving the trained model for future use.
 
 ## Table of Contents
 
@@ -9,7 +9,6 @@ This repository contains a machine learning model for predicting lung cancer ris
 - [Prerequisites](#prerequisites)
 - [Usage](#usage)
 - [Model Evaluation](#model-evaluation)
-- [License](#license)
 
 ## Project Overview
 
