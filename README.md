@@ -75,3 +75,7 @@ After training the model, the evaluation metrics include:
 - **Recall**: Measures the ability of the model to find all positive samples.
 - **Confusion Matrix**: Displays the number of true positives, true negatives, false positives, and false negatives.
 - **Log Loss**: Measures the performance of the classification model where predictions are probabilities.
+
+## Disclaimer:
+
+This project is for educational purposes only and should not be used for real-world medical diagnosis or treatment. The machine learning model developed here is based on publicly available data from Kaggle and has been modified and trained to demonstrate classification techniques using Logistic Regression, KNN, and SVM. It has not been validated for clinical use, and its predictions may not be reliable for actual patient care. Always consult healthcare professionals for medical advice and decisions.
